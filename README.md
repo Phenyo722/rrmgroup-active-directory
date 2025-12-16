@@ -5,20 +5,34 @@ Secure Active Directory infrastructure with GPO, file services, backups, and net
 This project demonstrates the design and implementation of a secure Windows Server Active Directory infrastructure for a simulated organization called RRM Group. The environment was built using virtual machines and focuses on centralized authentication, access control, backup management, and basic service testing.
 
 **Objectives**
+
 -Implement Active Directory Domain Services (AD DS)
+
 -Centralize user and computer management
+
 -Enforce security restrictions using Group Policy
+
 -Configure a file server and backup strategy
+
 -Test network services using command-line tools
 
+
 **Technologies Used**
+
 Windows Server
+
 Active Directory Domain Services (AD DS)
+
 Group Policy Management
+
 DNS
+
 Windows Server Backup
+
 Telnet Client
+
 VirtualBox
+
 
 | Server Name | Role                      |
 | ----------- | ------------------------- |
